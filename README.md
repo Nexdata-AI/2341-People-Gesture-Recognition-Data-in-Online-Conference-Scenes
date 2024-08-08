@@ -2,7 +2,7 @@
 
 ## Description
 2,341 People Gesture Recognition Data in Meeting Scenes includes Asians, Caucasians, blacks, and browns, and the age is mainly young and middle-aged. It collects a variety of indoor office scenes, covering meeting rooms, coffee shops, libraries, bedrooms, etc. Each person collected 18 pictures and 2 videos. The pictures included 18 gestures such as clenching a fist with one hand and heart-to-heart with one hand, and the video included gestures such as clapping.
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1292?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1292?source=Github
 
 
 ## Data size
